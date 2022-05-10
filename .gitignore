@@ -5,6 +5,7 @@ data/*
 !data/sw300s.json
 out
 oldini
+default.ini
 ini2json.py
 peersim.py
 play.py
