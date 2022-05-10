@@ -1,0 +1,11 @@
+__*
+.vscode
+backup
+data/*
+!data/sw300s.json
+out
+oldini
+ini2json.py
+peersim.py
+play.py
+plot_from_data.py

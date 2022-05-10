@@ -1,0 +1,25 @@
+{
+    "Graph": {
+        "graph_path": "nets/sw_25_300_4_0.25.pkl"
+    },
+    "Experiment": {
+        "parallel": 1,
+        "victims": [
+            2,
+            3,
+            5,
+            8,
+            12,
+            16,
+            20
+        ],
+        "tau": 0.0,
+        "repeat": 10,
+        "ratio": 0.25,
+        "epoch": [
+            800
+        ],
+        "max_enum": 1,
+        "seed": "22"
+    }
+}
