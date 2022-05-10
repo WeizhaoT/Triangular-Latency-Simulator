@@ -3,6 +3,7 @@ __*
 backup
 data/*
 !data/sw300s.json
+plots
 out
 oldini
 default.ini
